@@ -32,6 +32,16 @@
 
 ![](https://raw.githubusercontent.com/lygzblog/githubImg/refs/heads/main/alipay-pyx1.webp)
 
+## 苹果手机如何获取？
+
+> 苹果手机复制的活动链接很长，里面的用户 ID 和路径 ID 如下面所示！
+
+**shareId=用户 ID**
+
+**shareBizType=活动路径 ID**
+
+---
+
 ## 温馨提示：
 
 有编程经验的朋友可以直接克隆源代码进行操作，没有编程经验的直接下载`Releases`中的打包后的版本直接上传服务器即可！
@@ -53,3 +63,11 @@
 微信号：lygzblog
 
 添加时请备注：进群
+
+---
+
+## ⭐ 星标趋势
+
+如果你觉得 `alipay-pyx` 对你有帮助，欢迎点击右上角 ⭐Star 支持我们，让更多人了解和使用这个项目。
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lygzblog/alipay-pyx&type=Date)](https://www.star-history.com/#lygzblog/alipay-pyx&Date)
